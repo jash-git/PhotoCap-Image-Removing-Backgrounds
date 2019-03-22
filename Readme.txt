@@ -1,0 +1,5 @@
+﻿PhotoCap 6.0應用「魔術橡皮擦」去除背景[ PhotoCap Image Removing Backgrounds(keyer effects)(Image Matting)]
+
+資料來源:https://blog.xuite.net/yh96301/blog/65465505-PhotoCap+6.0%E6%87%89%E7%94%A8%E3%80%8C%E9%AD%94%E8%A1%93%E6%A9%A1%E7%9A%AE%E6%93%A6%E3%80%8D%E5%8E%BB%E9%99%A4%E8%83%8C%E6%99%AF
+
+GITHUB: https://github.com/jash-git/PhotoCap-Image-Removing-Backgrounds
